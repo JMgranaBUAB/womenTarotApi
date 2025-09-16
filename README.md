@@ -94,5 +94,5 @@ Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE
 - **JM** - *Desarrollo Completo*
 
 ---
-⌨️ con ❤️ por [Tu Nombre]
-# womenTarotApi
+⌨️ con ❤️ por JM
+
