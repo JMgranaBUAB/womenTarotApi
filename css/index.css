@@ -1,3 +1,10 @@
+body {
+    background-color: rgb(47,50,63);
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+
 main, header, footer {
     background-color: rgb(47,50,63);
     color: rgb(196,159,59);
